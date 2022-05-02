@@ -1,2 +1,3 @@
 # lukasweb
-my react portfolio website
+Portfolio website
+Made with ReactJs
